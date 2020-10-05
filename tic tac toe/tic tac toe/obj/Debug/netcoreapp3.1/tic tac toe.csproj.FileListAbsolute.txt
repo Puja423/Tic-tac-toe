@@ -2,3 +2,12 @@ G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\obj\Debug\netcoreapp
 G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.AssemblyInfoInputs.cache
 G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.AssemblyInfo.cs
 G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.csproj.CoreCompileInputs.cache
+G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\bin\Debug\netcoreapp3.1\tic tac toe.exe
+G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\bin\Debug\netcoreapp3.1\tic tac toe.deps.json
+G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\bin\Debug\netcoreapp3.1\tic tac toe.runtimeconfig.json
+G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\bin\Debug\netcoreapp3.1\tic tac toe.runtimeconfig.dev.json
+G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\bin\Debug\netcoreapp3.1\tic tac toe.dll
+G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\bin\Debug\netcoreapp3.1\tic tac toe.pdb
+G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.dll
+G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.pdb
+G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.genruntimeconfig.cache

@@ -1,19 +1,35 @@
-﻿using System;
+﻿
+using Microsoft.VisualBasic;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
 namespace TICTacToeGame
 {
     class TicTacToeGame
     {
-        public char[] board = new char[10];
+        public char[] board { get; set; }
+
+        public char player { get; set; }
+
+        public char computer { get; set; }
 
 
-        public TicTacToeGame()
+
+        public void TicTac()
         {
-            for (int i = 0; i < 10; i++)
+            board = new char[10];
+            for (int i = 1; i < 10; i++)
                 board[i] = ' ';
         }
+
+        public char ChooseOption()
+        {
+            Console.Write("Choose X or O :");
+            var input = Convert.ToChar(Console.ReadLine());
+            return input;
+
+        }
+
     }
 }
-            
-        
-    
-
