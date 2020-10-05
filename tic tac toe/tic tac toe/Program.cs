@@ -39,6 +39,20 @@ namespace TICTacToeGame
                 else
                     Console.Write(" {0} |", board[i]);
             }
+            
+            }
+        public void UserMove()
+        {
+            Console.WriteLine("Enter index (1-9) to mark your choice :");
+            int userMove = Convert.ToInt32(Console.ReadLine());
+            if (board[userMove] == ' ')
+                board[userMove] = ChooseOption();
+
+            else
+            {
+                Console.WriteLine("empty");
+                UserMove();
+            }
         }
 
 
