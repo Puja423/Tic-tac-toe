@@ -1,0 +1,4 @@
+G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.csprojAssemblyReference.cache
+G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.AssemblyInfoInputs.cache
+G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.AssemblyInfo.cs
+G:\Learning Git\tic tac\Tic-tac-toe\tic tac toe\tic tac toe\obj\Debug\netcoreapp3.1\tic tac toe.csproj.CoreCompileInputs.cache
